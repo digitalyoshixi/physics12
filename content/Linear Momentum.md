@@ -17,14 +17,14 @@ $\frac{kgm}{s}$
 # Conservation of Linear Momentum
 Following the [[Conservation of Energy]],
 The total momentum of a system remains constant in all points of time if:
-- No external unbalanced forces are acting on the objects
+- No external or unbalanced forces are acting on the objects
 - The object has $\overrightarrow a = 0$ and $\overrightarrow F_{net} = 0$
 This means that:
 ![[Linear Momentum-20240327203234037.webp]]
 ### Momentum Collision
 2+ Objects in collision
 - Total initial [[Linear Momentum|Momentum]] = Total final [[Linear Momentum|Momentum]]
-- Total [[Impulse]] = 0
+- Total system's [[Impulse]] = 0
 ##### Formulas
 $$p_{1}+p_{2}+p_{3}+\dots = p_{1}'+p_{2}'+p_{3}'+\dots$$
 ### Types of Collisions
