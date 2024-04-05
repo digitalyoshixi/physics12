@@ -25,3 +25,4 @@ tags:
 - [[Work]]
 - [[Kinetic Energy]]
 - [[Gravitational Potential Energy]]
+- [[Elastic Potential Energy]]
