@@ -1,0 +1,46 @@
+---
+tags:
+  - elastics
+---
+# Table Of Contents
+```table-of-contents
+```
+# Elastic
+![[Elastics-20240405204120872.webp|432]]
+A special material that is able to return to its original shape when the influencing force is removed
+### Properties of Elastic Systems
+##### Damping
+A higher damping more energy is lost quicker.
+If damping is 0, no energy is lost ever.
+##### Spring constant (k)
+This is the stiffness of the spring.
+It is very tricky to calculate the spring constant. Even the tiniest imperfection will change 'k'.
+Springs are not designed with a specific 'k' in mind because it is virtually impossible to manufacture your exact 'k' spring.
+###### SI Units
+The SI unit for the spring constant is $N/m$
+##### Elasticity
+![[Elastics-20240405225542382.webp]]
+###### Perfect Elastic
+![[Elastics-20240405224637913.webp]]
+
+# Hooke's Law
+An empirical law which states that the deformation (x) of an elastic object is [[Direct Relationship|Directly Proportional]] to the applied force ($F_{a}$)
+$$F_{a}=kx$$
+$$\overrightarrow a = \frac{kx}{m}$$
+This simply means that more force will deform the object more. And no force, means no deformities
+### Deformation And Energy
+When an elastic is it **stores energy** and can **release it** when no force is applied.
+# Elastic Potential Energy
+$$E_{e}=\frac{1}{2}kx^2$$
+k : the spring constant
+x : length of the deformation
+### Elastic Potential Energy Proof
+- [[Elastic Potential Energy Proof]]
+### Why Strings Bounce
+- Force of gravity higher than elastic force.
+- Eventually it reaches an equilibrium force
+- It slows down
+- The force upwards makes it go upwards
+- Eventually it bounces too high
+- Gravity pulls it back down
+And the cycle repeats. Its a back and forth of elastic and gravitational energy

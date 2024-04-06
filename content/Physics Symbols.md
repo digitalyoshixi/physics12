@@ -6,6 +6,7 @@ tags:
 # General
 $\overline x$ : average of x
 $\triangle x$ : change in x over period
+$\propto$ : proportional to
 # Specific
 ### Kinematics & Dynamics
 $\overrightarrow r, r$ : [[Position]] or Seperation
