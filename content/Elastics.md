@@ -30,6 +30,8 @@ $$\overrightarrow a = \frac{kx}{m}$$
 This simply means that more force will deform the object more. And no force, means no deformities
 ### Deformation And Energy
 When an elastic is it **stores energy** and can **release it** when no force is applied.
+Maximum deformation is the same regardless of if you compress or expand the elastic
+![[Elastics-20240411114047232.webp]]
 # Elastic Potential Energy
 $$E_{e}=\frac{1}{2}kx^2$$
 k : the spring constant
@@ -44,3 +46,6 @@ x : length of the deformation
 - Eventually it bounces too high
 - Gravity pulls it back down
 And the cycle repeats. Its a back and forth of elastic and gravitational energy
+
+# Equilibrium Point
+![[Elastics-20240411112802672.webp]]
