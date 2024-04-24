@@ -49,3 +49,7 @@ And the cycle repeats. Its a back and forth of elastic and gravitational energy
 
 # Equilibrium Point
 ![[Elastics-20240411112802672.webp]]
+# Elasticity Coefficient (From Gizmo Lab)
+If elasticity = 0, then 2 colliding objects have the same final velocity
+If elasticity < 1, then some energy is lost due to heat or sound.
+If elasticity = 1, then no energy is lost
