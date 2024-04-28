@@ -19,7 +19,7 @@ Springs are not designed with a specific 'k' in mind because it is virtually imp
 ###### SI Units
 The SI unit for the spring constant is $N/m$
 ##### Elasticity
-![[Elastics-20240405225542382.webp]]
+![[Elastics-20240405225542382.webp|702]]
 ###### Perfect Elastic
 ![[Elastics-20240405224637913.webp]]
 

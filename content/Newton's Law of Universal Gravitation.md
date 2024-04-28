@@ -4,6 +4,10 @@ tags:
 ---
 [[Gravity]] is what attracts things together.
 
+# Kepler's Laws
+1. All orbits are elliptical with the sun at a [[Locus Points|Focus]]. 
+2. [[Kepler's 2nd Law]]
+3. [[Kepler's 3rd Law]]
 # Example
 If we have 2 5kg objects in space, separated by 1m, they would accelerate towards each other very slowly.
 ![[Newton's Law of Universal Gravitation-20240204195228490.webp|358]]
