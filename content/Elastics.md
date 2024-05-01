@@ -2,7 +2,7 @@
 tags:
   - elastics
 ---
-	# Table Of Contents
+# Table Of Contents
 ```table-of-contents
 ```
 # Elastic
@@ -23,15 +23,11 @@ The SI unit for the spring constant is $N/m$
 ###### Perfect Elastic
 ![[Elastics-20240405224637913.webp]]
 
-# Hooke's Law
-An empirical law which states that the deformation (x) of an elastic object is [[Direct Relationship|Directly Proportional]] to the applied force ($F_{a}$)
-$$F_{a}=kx$$
-$$\overrightarrow a = \frac{kx}{m}$$
-This simply means that more force will deform the object more. And no force, means no deformities
 ### Deformation And Energy
 When an elastic is it **stores energy** and can **release it** when no force is applied.
 Maximum deformation is the same regardless of if you compress or expand the elastic
 ![[Elastics-20240411114047232.webp]]
+# [[Hooke's Law]]
 # Elastic Potential Energy
 $$E_{e}=\frac{1}{2}kx^2$$
 k : the spring constant
