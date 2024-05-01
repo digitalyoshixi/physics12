@@ -3,11 +3,6 @@ tags:
   - dynamics
 ---
 [[Gravity]] is what attracts things together.
-
-# Kepler's Laws
-1. All orbits are elliptical with the sun at a [[Locus Points|Focus]]. 
-2. [[Kepler's 2nd Law]]
-3. [[Kepler's 3rd Law]]
 # Example
 If we have 2 5kg objects in space, separated by 1m, they would accelerate towards each other very slowly.
 ![[Newton's Law of Universal Gravitation-20240204195228490.webp|358]]
@@ -16,9 +11,9 @@ If we increased their weights, they would accelerate quickly
 If we moved these heavy boys farther apart, acceleration would go slower
 ![[Newton's Law of Universal Gravitation-20240204195428092.webp]]
 Newton's universal law of gravitation can model this behavior.
-# The Law
+# The Law of Universal Gravitation
 $$F_{g}= \frac{Gm_1m_2}{r^2}$$
 $G$ : [[Universal Gravitational Constant]] $6.67+E^{-11}$ 
 $r$: distance between the **centers** of object 1 and 2
-$m_1$ : mass of obj 1
+$m_1$ : mass of obj1
 $m_2$ : mass of obj2

@@ -12,4 +12,3 @@ $Watts(W)$
 # Power Rating
 - Higher power for a blow-dryer, the faster it blows your hair.
 - Hair dryers tend to operate at 1000W
-- 

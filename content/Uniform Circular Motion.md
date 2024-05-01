@@ -18,6 +18,7 @@ An object undergoing uniform circular motion means it is moving in a circular mo
 ### Acceleration
 $$a = \frac{v^2}{r}$$
 $$a = 4\pi^2rf^2$$
+$$a = \frac{4\pi^2r}{T^2}$$
 # Proof
 [[UCM Acceleration Proof]]
 # Types of UCM

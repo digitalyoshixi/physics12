@@ -33,4 +33,6 @@ tags:
 ### [[Unit 5 Questions List]]
 # Unit 6
 - [[Power]]
+- [[Kepler's Laws]]
 - [[Newton's Law of Universal Gravitation]]
+- [[Gravitational Potential Energy]]
