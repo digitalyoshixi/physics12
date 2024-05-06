@@ -17,3 +17,4 @@ When objects are going to turn with [[Uniform Circular Motion]]:
 # Formula
 $$F_{c} = \frac{mv^2}{r}$$
 $$F_{c} = m4\pi^2rf^2$$
+$$F_{c} = \frac{m4\pi^2r}{T^2}$$

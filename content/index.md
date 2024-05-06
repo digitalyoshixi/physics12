@@ -40,4 +40,5 @@ tags:
 - [[Newton's Law of Universal Gravitation]]
 - [[Gravitational Potential Energy]]
 - [[Orbit]]
+- [[Binding Energy]]
 ### [[Unit 6 Questions List]]
