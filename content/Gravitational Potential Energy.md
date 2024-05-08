@@ -1,6 +1,7 @@
 ---
 tags:
   - energy
+  - planets
 ---
 # Gravitational Potential Energy
 The energy to counteract gravity

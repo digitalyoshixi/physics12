@@ -1,6 +1,6 @@
 ---
 tags:
-  - gravity
+  - planets
 ---
 # Kepler's Laws
 1. All orbits are elliptical with the sun at a [[Locus Points|Focus]]. 

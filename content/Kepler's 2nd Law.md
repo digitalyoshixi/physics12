@@ -1,6 +1,6 @@
 ---
 tags:
-  - gravity
+  - planets
 ---
 The line connecting the planet to the sun sweeps out equal areas in equal time intervals. When the planet is closer, it is moving faster. 
 ![[Kepler's 2nd Law-20240426144530782.webp]]

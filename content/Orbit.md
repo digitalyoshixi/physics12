@@ -1,6 +1,6 @@
 ---
 tags:
-  - gravity
+  - planets
 ---
 # Orbit
 ![[Orbit-20240501134219184.webp]]
@@ -8,8 +8,9 @@ tags:
 # Weapons of War
 - **ICBM:** Missiles that go low orbit and can go across the world
 # Formulas
-$$v_{orbit}=\sqrt{\frac{Gm_{1}}{r}}$$
-$$E_{orbit}=-\frac{Gm_{1}m_{2}}{r}$$
+$$v_{orbit}=\sqrt{\frac{Gm_{1}}{\triangle d}}$$
+$$E_{k}=\frac{Gm_{1}m_{2}}{2\triangle d}$$
+$$E_{Torbit}=-\frac{Gm_{1}m_{2}}{2\triangle d}$$
 # Terminology
 - [[Geosynchronous Orbit]]
 - [[Geostationary Objects]]

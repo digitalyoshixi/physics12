@@ -2,6 +2,7 @@
 tags:
   - questions
 ---
+Geodesic: The shortest distance between 2 points on a curved surface
 ![[Sphereometer Riddle-20240506144950057.webp]]
 This can occur at the south pole
 This can also occur beside the north pole

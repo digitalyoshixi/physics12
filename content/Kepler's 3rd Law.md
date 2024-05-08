@@ -1,8 +1,9 @@
 ---
 tags:
-  - gravity
+  - planets
 aliases:
   - Kepler's Constant
+  - Law of Harmonies
 ---
 # Fake Constant
 This is a constant that is a relative constant.

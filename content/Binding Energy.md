@@ -1,6 +1,6 @@
 ---
 tags:
-  - gravity
+  - planets
   - energy
 ---
 # Escaping Orbits
@@ -11,6 +11,8 @@ Since it is at infinity: $E_{G} = 0$
 Since it stops at infinity: $E_{k} = 0$
 Thus $E_{T} = 0$
 For an object to escape earth's orbit, it must have a $E_{T}\geq 0$
+### Escape Velocity
+- [ ] $$v_{orbit}=\sqrt{\frac{Gm_{1}}{r}}$$
 # Formula
 If an object is in orbit, then the binding energy to escape orbit is:
 $E_{binding} = |E_{orbit}|$
