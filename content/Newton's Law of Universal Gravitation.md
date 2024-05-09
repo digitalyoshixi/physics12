@@ -3,7 +3,7 @@ tags:
   - dynamics
   - planets
 ---
-[[Gravity]] is what attracts things together.
+	[[Gravity]] is what attracts things together.
 # Example
 If we have 2 5kg objects in space, separated by 1m, they would accelerate towards each other very slowly.
 ![[Newton's Law of Universal Gravitation-20240204195228490.webp|358]]

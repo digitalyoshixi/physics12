@@ -5,8 +5,10 @@ tags:
 [[Universal Gravitational Constant]] $G = 6.67+E^{-11}$
 $m_{Earth} = 5.972+E^{24}$
 $m_{Jupiter} = 1.898+E^{27}$
+$m_{Sun}=1.989+E^{30}$
 $r_{Earth} = 6.371+E^6$
 $r_{Jupiter} = 6.9911+E^7$
+$r_{EarthToSun}=1.5+E^{11}$
 [[Kepler's 3rd Law|Kepler's Constant]] $k_{Sun} \sim 3.35+E^{18}$
 [[Kepler's 3rd Law|Kepler's Constant]] $k_{Earth} \sim 1.025+E^{13}$
 $T_{EarthOrbitSun} = 365.256\ days$
