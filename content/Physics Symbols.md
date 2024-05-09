@@ -19,7 +19,8 @@ $\overline v$ : [[Velocity]]
 - $\overrightarrow v_i$ : Instantaneous Velocity or Initial Velocity
 - $\overrightarrow v_{avg}$ : Average Velocity
 $a$, $\overrightarrow a$ : [[Acceleration]]
-$m$ : mass
+$m$ : mass of orbiting object
+$M$: mass of orbited object
 $F_g$, $W$ : [[Weight]] 
 $F_{net}$ : Net force
 $F_{f}$ : [[Friction]]
