@@ -18,3 +18,5 @@ $G:$ [[Universal Gravitational Constant]]
 $$E_{G} = -\frac{GMm}{r}$$
 
 It is negative because infinity is reference point. Everytime you raise something up, the distance from infinity get smaller
+### Accleration Due to Gravity
+$$g=\frac{GM}{r^2}$$

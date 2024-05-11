@@ -2,7 +2,6 @@
 tags:
   - electricity
 ---
-
 What allows electrons to move is electrostatic force.
 
 # Formula
