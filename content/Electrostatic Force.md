@@ -10,3 +10,4 @@ where k is [[Coulomb|Coulomb's Constant]]
 $q_{1}$ is the charge of a electron
 $q_{2}$ is the charge of the other electron
 $d$ is the distance between electrons
+$$F_{e}=qE$$

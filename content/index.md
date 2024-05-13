@@ -42,5 +42,7 @@ tags:
 - [[Escape Velocity]]
 - [[Electrostatic Force]]
 - [[Coulomb]]
+- [[Electric Fields]]
+- [[Parallel Plate Systems]]
 ### [[Unit 6 Constants]]
 ### [[Unit 6 Questions List]]
