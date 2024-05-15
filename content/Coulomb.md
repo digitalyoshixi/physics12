@@ -1,9 +1,11 @@
 ---
 tags:
   - electricity
+aliases:
+  - Coulomb's Constant
 ---
 # $C$
-A coulomb is $6.242+E^{18}$
+A coulomb is $6.242*10^{18}$
 This is a unit to allow us for easier conversion where we dont need to write everything out.
 # Coulomb's 'Constant'
 Fake constant

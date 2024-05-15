@@ -44,5 +44,6 @@ tags:
 - [[Coulomb]]
 - [[Electric Fields]]
 - [[Parallel Plate Systems]]
+- [[Electric Potential Energy]]
 ### [[Unit 6 Constants]]
 ### [[Unit 6 Questions List]]

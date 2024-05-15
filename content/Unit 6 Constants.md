@@ -2,6 +2,7 @@
 tags:
   - planets
 ---
+# Planetary
 [[Universal Gravitational Constant]] $G = 6.67*10^{-11}$
 $m_{Earth} = 5.972*10^{24}$
 $m_{Jupiter} = 1.898*10^{27}$
@@ -14,3 +15,5 @@ $r_{EarthToSun}=1.5*10^{11}$
 $T_{EarthOrbitSun} = 3.155812*10^7s$
 $T_{MoonOrbitEarth} = 2.360448*10^6s$
 $T_{Geosynchronous} = 86400s$
+# Electricity
+[[Coulomb|Coulomb's Constant]] $k = 9.0*10^9 \frac{Nm}{C^2}$
