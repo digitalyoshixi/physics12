@@ -11,3 +11,4 @@ tags:
 - [[Launch Speed to Orbital Radius Questions]]
 # Electricity
 - [[Charged Particle in Square Questions]]
+- [[Parallel Plate Conservation of Energy Questions]]

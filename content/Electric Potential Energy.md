@@ -9,6 +9,9 @@ Reference point depends on the polarity of the charge.
 For attracting charges, reference point is at $-\infty$
 For a repulsing charge, reference point is at $\infty$
 # Formula
+### 1 Charge
+$$E_{e}=qE(\triangle d)$$
+### 2 Particles
 ##### Attraction
 $$E_{e}=-\frac{kq_{1}q_{2}}{\triangle d}$$
 ##### Repulsion
