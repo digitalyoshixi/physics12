@@ -1,6 +1,8 @@
 ---
 tags:
   - energy
+aliases:
+  - Joules
 ---
 Energy is the ability to change
 # Energy Efficiency
@@ -21,3 +23,4 @@ $E_{t_{1}}+W=E_{t_{2}}$
 - [[Gravitational Potential Energy]]
 - [[Elastics|Elastic Potential Energy]]
 - [[Thermal Energy]]
+- [[Electric Potential Energy]]

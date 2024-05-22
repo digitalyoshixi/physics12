@@ -11,8 +11,11 @@ For a repulsing charge, reference point is at $\infty$
 # Formula
 ### 1 Charge
 $$E_{e}=qE(\triangle d)$$
-### 2 Particles
+### 2 Charges
 ##### Attraction
 $$E_{e}=-\frac{kq_{1}q_{2}}{\triangle d}$$
 ##### Repulsion
 $$E_{e}=\frac{kq_{1}q_{2}}{\triangle d}$$
+##### Provided Electric Potential
+$$E_{e}=qV$$
+- $V$ is [[Electric Potential]]
