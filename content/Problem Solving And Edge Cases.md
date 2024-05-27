@@ -20,3 +20,5 @@ tags:
 - Convention-wise, top down view is the same as rear view
 # Banked Curve
 - Theoretically, you can still make a turn on a banked curve even if there is no friction
+# Electricity
+- Work is only positive when charge moved towards positive plate

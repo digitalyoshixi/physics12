@@ -4,7 +4,7 @@ tags:
 ---
 # $V$ Electric Potential 
 The amount of energy each coulomb of charge has at a certain point.
-Not very useful on its own, its best to find the change in electric potential instead.
+Not very useful on its own, its best to find the [[Electric Potential Difference]] instead
 ### SI Unit
 $\frac{J}{C}$
 [[Energy|Joules]] per [[Coulomb]]

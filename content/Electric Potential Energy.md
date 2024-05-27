@@ -19,3 +19,5 @@ $$E_{e}=\frac{kq_{1}q_{2}}{\triangle d}$$
 ##### Provided Electric Potential
 $$E_{e}=qV$$
 - $V$ is [[Electric Potential]]
+$$W=q(\triangle V)$$
+- $\triangle V$ is [[Electric Potential Difference|Voltage]]

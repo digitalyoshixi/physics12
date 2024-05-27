@@ -10,7 +10,7 @@ An electric field is a representation of the force path that positive test charg
 ![[Electric Fields-20240513141223776.webp|592]]
 ### A Positive Point Charge And Negative Point Charge
 ![[Electric Fields-20240513144150365.webp]]
-# Electric Field Intensity
+# $E$ Electric Field Intensity
 $$E=\frac{kq}{\triangle d^2}$$
 ### SI Units
 $\frac{N}{c}$ Newton Per Coulomb
