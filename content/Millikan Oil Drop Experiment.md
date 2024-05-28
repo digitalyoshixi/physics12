@@ -1,6 +1,6 @@
 ---
 tags:
-  - electricity
+  - electromagnetism
 ---
 Scientists did not know about the electron or proton. They did not know how charges worked.
 Millikan believed all charges were multiples of a base charge. To find the value of this basic charge, he followed a similar solution to the [[Sklerocog Thought Experiment]]

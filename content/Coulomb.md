@@ -1,6 +1,6 @@
 ---
 tags:
-  - electricity
+  - electromagnetism
 aliases:
   - Coulomb's Constant
 ---

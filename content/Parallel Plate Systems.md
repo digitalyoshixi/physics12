@@ -1,6 +1,6 @@
 ---
 tags:
-  - electricity
+  - electromagnetism
 ---
 # Parallel Plate System
 ![[Parallel Plate Systems-20240513145321973.webp]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - electricity
+  - electromagnetism
 ---
 # $e=1.602*10^{-19}$
 The coulombs in the smallest amount of charge.
