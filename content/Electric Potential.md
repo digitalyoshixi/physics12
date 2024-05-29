@@ -1,6 +1,6 @@
 ---
 tags:
-  - electromagnetism
+  - electricity
 ---
 # $V$ Electric Potential 
 The amount of energy each coulomb of charge has at a certain point.

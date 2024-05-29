@@ -1,7 +1,7 @@
 ---
 tags:
   - energy
-  - electromagnetism
+  - electricity
 ---
 Potential energy of all electronics
 ### Reference Point

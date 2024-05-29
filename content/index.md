@@ -49,6 +49,9 @@ tags:
 - [[Electric Potential Difference]]
 - [[Elementary Charges]]
 - [[Magnetic Fields]]
-- 
+- [[Conventional Current]]
+- [[Cell]]
+- [[Ferromagnetic Materials]]
+- [[Electromagnetism]]
 ### [[Unit 6 Constants]]
 ### [[Unit 6 Questions List]]

@@ -2,15 +2,24 @@
 tags:
   - electromagnetism
 ---
-# Magnetism
-Very few materials are actually magnetic:
-- Iron
-- Neodymium
-- Bismuth
-On their own, they do not make magnets. Particles that form together and make a domain. When you point the particles in a certain direction, the domain is a magnetic field.
-# Magnetic Fields
+# $\vec{B}$ Magnetic Field
 When you have a magnet, the magnetic field is created by putting test magnets which are compasses and mapping which direction they point
 ![[Magnetic Fields-20240528150313737.webp]]
 ![[Magnetic Fields-20240528150644147.webp]]
 # Earth's Magnetic Field
 ![[Magnetic Fields-20240528151000980.webp]]
+# Magnetic Field Direction
+### Field Conventions
+Because, pages are 2D, we need a convention to help us conceptualize 3D
+![[Magnetic Fields-20240529134006816.webp]]
+### Right Hand Rule (Wire)
+![[Magnetic Fields-20240529133336434.webp|664]]
+Thumb in direction of [[Conventional Current]]
+Fingers is direction of magnetic field
+# Magnetic Polarity
+To determine which side of the magnet is positive(North) and which is negative(South).
+![[Magnetic Fields-20240529140356486.webp]]
+### Right Hand Rule (Solenoid)
+![[Magnetic Fields-20240529134751582.webp]]
+Thumb in direction of magnetic field
+Fingers in direction of [[Conventional Current]]

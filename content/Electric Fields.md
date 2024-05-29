@@ -1,6 +1,6 @@
 ---
 tags:
-  - electromagnetism
+  - electricity
 ---
 # Field Diagrams
 An electric field is a representation of the force path that positive test charges will follow when placed near a charged particle.
