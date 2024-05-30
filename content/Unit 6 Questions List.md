@@ -9,6 +9,3 @@ tags:
 - [[Launch Speed to Reach Altitude Questions]]
 - [[Escape Velocity Questions]]
 - [[Launch Speed to Orbital Radius Questions]]
-# Electricity
-- [[Charged Particle in Square Questions]]
-- [[Parallel Plate Conservation of Energy Questions]]
