@@ -14,7 +14,7 @@ Because, pages are 2D, we need a convention to help us conceptualize 3D
 ![[Magnetic Fields-20240529134006816.webp]]
 ### Right Hand Rule (Wire)
 ![[Magnetic Fields-20240529133336434.webp|664]]
-Thumb in direction of [[Conventional Current]]
+Thumb in direction of [[Current|Conventional Current]]
 Fingers is direction of magnetic field
 # Magnetic Polarity
 To determine which side of the magnet is positive(North) and which is negative(South).
