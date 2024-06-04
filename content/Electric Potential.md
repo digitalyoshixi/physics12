@@ -8,6 +8,8 @@ Not very useful on its own, its best to find the [[Electric Potential Difference
 ### SI Unit
 $\frac{J}{C}$
 [[Energy|Joules]] per [[Coulomb]]
+or
+$Volts(V)$ 
 # Formula
 $$V=\frac{kq}{\triangle d}$$
 - $k$ is [[Coulomb|Coulomb's Constant]]

@@ -3,13 +3,13 @@ tags:
   - energy
   - electricity
 ---
-Potential energy of all electronics
+Work required to bring 2 charges together
 ### Reference Point
 Reference point depends on the polarity of the charge. 
 For attracting charges, reference point is at $-\infty$
 For a repulsing charge, reference point is at $\infty$
 # Formula
-### 1 Charge
+### 1 Charge in field
 $$E_{e}=qE(\triangle d)$$
 ### 2 Charges
 ##### Attraction

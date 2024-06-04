@@ -14,3 +14,5 @@ An electric field is a representation of the force path that positive test charg
 $$E=\frac{kq}{\triangle d^2}$$
 ### SI Units
 $\frac{N}{c}$ Newton Per Coulomb
+# [[Electrostatic Force]] in Electric Field
+$$F=qE$$
