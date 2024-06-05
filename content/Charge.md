@@ -28,5 +28,5 @@ It was discovered during the [[Millikan Oil Drop Experiment]].
 $$q=Ne$$
 Where:
 - $q$ is charge
-- $N$ is number of elementary charges
+- $N$ is number of elementary charges or excess charges
 - $e$ is elementary charge value
