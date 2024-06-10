@@ -5,7 +5,7 @@ tags:
 # $\vec{B}$ Magnetic Field
 When you have a magnet, the magnetic field is created by putting test magnets which are compasses and mapping which direction they point
 ![[Magnetic Fields-20240528150313737.webp]]
-![[Magnetic Fields-20240528150644147.webp]]
+![[Magnetic Field-20240608220325155.webp]]
 # Earth's Magnetic Field
 ![[Magnetic Fields-20240528151000980.webp]]
 # Magnetic Field Direction

@@ -61,5 +61,5 @@ tags:
 - [[Magnetic Field]]
 - [[Ferromagnetic Materials]]
 - [[Electromagnetism]]
-- [[Electromagnetic Force]]
+- [[Magnetic Force]]
 ### [[Unit 9 Questions List]]

@@ -8,4 +8,4 @@ This means you can turn the magnet on or off.
 # Concepts
 - [[Ferromagnetic Materials]]
 - [[Magnetic Field]]
-- [[Electromagnetic Force]]
+- [[Magnetic Force]]
