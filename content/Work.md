@@ -24,5 +24,3 @@ Taking energy out of an object
 - Losing tug of war
 - Getting hit by a car
 The direction the object travels does not equate to the force you provide
-
-	
